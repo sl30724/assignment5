@@ -50,7 +50,6 @@ gsap.timeline({
         trigger: ".radio",
         start: "bottom center",
         end: "bottom top",
-        markers: true,
         scrub: true,
         pin: true
     }
